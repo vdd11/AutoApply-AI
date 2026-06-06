@@ -1,0 +1,7 @@
+[project]
+name = "autoapply-ai-pro"
+version = "6.0.0"
+description = "Deployable resume-to-job matching and application tracking platform"
+requires-python = ">=3.10"
+[tool.pytest.ini_options]
+testpaths = ["tests"]

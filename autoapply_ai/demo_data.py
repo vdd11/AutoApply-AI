@@ -1,0 +1,8 @@
+from .models import Job
+DEMO_JOBS=[
+Job("demo1","Junior Data Analyst","Northstar Analytics","Remote, US","Demo","https://example.com/apply/junior-data-analyst","Entry-level role using Python, SQL, Excel, dashboards, statistics, and stakeholder reporting to analyze customer data.","Full-time","$65k-$80k"),
+Job("demo2","Education Data Analyst","EduMetrics Lab","Remote","Demo","https://example.com/apply/education-data-analyst","Analyze student performance data, build dashboards, identify learning gaps, and communicate insights to education teams using Python and statistics.","Full-time","$60k-$78k"),
+Job("demo3","Research Analyst - Quantitative","Civic Research Group","Hybrid / Remote","Demo","https://example.com/apply/research-analyst","Clean datasets, run statistical analyses, create visualizations, and summarize quantitative research findings.","Full-time","$58k-$75k"),
+Job("demo4","Business Intelligence Analyst","CloudRetail Insights","Remote","Demo","https://example.com/apply/bi-analyst","Develop SQL queries, KPI dashboards, data models, and recurring reports for business stakeholders.","Full-time","$70k-$90k"),
+Job("demo5","Data Scientist I","HealthTech Signals","Remote, US","Demo","https://example.com/apply/data-scientist-i","Apply Python, machine learning, regression, classification, model evaluation, and data visualization to healthcare analytics problems.","Full-time","$85k-$105k"),
+Job("demo6","Sales Account Executive","Random Sales Co","Remote","Demo","https://example.com/apply/sales","Sales pipeline, cold calling, CRM, quota attainment, and account management.","Full-time","$50k + commission")]
