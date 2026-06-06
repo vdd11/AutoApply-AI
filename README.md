@@ -1,4 +1,4 @@
-# AutoApply AI Pro v9 — Resume-to-Job Matching Platform
+# AutoApply AI Pro — Resume-to-Job Matching Platform
 
 A deployable Streamlit application that lets a user create a profile, upload a resume, fetch live job postings, rank the postings against the user's skills, and apply on the original job website.
 
@@ -16,26 +16,6 @@ This is intentionally **review-first**. It does not mass-submit applications or 
 8. Click **Apply on Website** to open the original posting
 9. Track Viewed, Applied, Interview, Rejected, and follow-up status
 10. Download a job-specific prep packet
-
-## What Makes v9 Stronger
-
-- Dark-mode Streamlit UI
-- Session-safe user profiles
-- Resume upload and parsing
-- Resume section extraction
-- Embedding-ready semantic matching with TF-IDF fallback
-- Job quality scoring
-- Strict data/analytics relevance filtering
-- Salary, location, remote, employment-type, blacklist, and whitelist filters
-- Saved searches and alert definitions
-- Apply-click tracking
-- ATS keyword coverage
-- Tailored resume bullet suggestions
-- Interview prep and follow-up message generation
-- Recruiter demo mode when live APIs return no results
-- SQLite-backed normalized storage
-- Docker and GitHub Actions support
-- 17 passing tests
 
 ## Quick Start
 
