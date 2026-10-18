@@ -41,21 +41,6 @@ python main.py top --limit 10
 
 The app uses SQLite by default for local/demo deployment. For production multi-user deployment, connect the storage layer to PostgreSQL using the schema in `autoapply_ai/database.py`.
 
-## Portfolio Positioning
-
-**AutoApply AI Pro** is an end-to-end AI/data product demonstrating:
-
-- Python software engineering
-- Data ingestion from APIs and web pages
-- Resume parsing and NLP-style feature extraction
-- Recommendation/ranking systems
-- Data cleaning and normalization
-- Streamlit dashboard development
-- SQLite database design
-- Application analytics
-- Testing, Docker, CI/CD, and deployment readiness
-
 ## Ethical Design
 
 This project does not auto-submit applications. It sends users to the official job posting so they can review and apply manually.
-"# AutoApply-AI" 
